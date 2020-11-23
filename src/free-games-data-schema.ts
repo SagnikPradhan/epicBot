@@ -5,7 +5,7 @@ export const FreeGamesDateSchema = z.array(
     .object({
       title: z.string(),
       id: z.string(),
-      description: z.string(),
+      productSlug: z.string(),
 
       keyImages: z.array(
         z
