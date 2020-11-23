@@ -2,5 +2,5 @@
 
 ## Todo
 
-- [ ](Add bot cron workflow)
-- [ ](Work on this README)
+- [ ] Add workflow cron job
+- [ ] Work on this README
